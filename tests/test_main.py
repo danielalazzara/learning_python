@@ -5,4 +5,4 @@ import main
 def test_main(capsys):
     main.main()
     captured = capsys.readouterr()
-    assert captured.out == "Hello, world!\n"
+    assert captured.out == "Loading data\n"
