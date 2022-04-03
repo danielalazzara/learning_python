@@ -1,4 +1,4 @@
-Date;Type;Piattaforma;Units;Difficulty;Time Start;Time End;;
+Date;Type;Piattaforma;Units;Difficulty;Time Start;Time End;Temp1;Temp2
 02/01/2022;Pairing;local;4;;14:00;16:00;;
 03/01/2022;Studying;datacamp;6;;;;;
 04/01/2022;Studying;datacamp;6;;;;;
@@ -32,8 +32,8 @@ Date;Type;Piattaforma;Units;Difficulty;Time Start;Time End;;
 26/01/2022;Pairing;local;6;;21:00;24:00;;
 27/01/2022;Studying;freecodecamp;10;;;;1h 24m 13s;100%
 28/01/2022;Studying;freecodecamp;10;;;;;
-29/01/2002;Studying;freecodecamp;10;;;;;
-29/01/2002;Pairing;local;4;;18:00;20:00;;
+29/01/2022;Studying;freecodecamp;10;;;;;
+29/01/2022;Pairing;local;4;;18:00;20:00;;
 30/01/2022;Studying;freecodecamp;10;;;;;
 31/01/2022;Studying;freecodecamp;10;;;;;
 01/02/2022;Studying;freecodecamp;10;;;;;
@@ -88,7 +88,7 @@ Date;Type;Piattaforma;Units;Difficulty;Time Start;Time End;;
 01/03/2022;Studying;Udacity;18;;;;3h;
 02/03/2022;Studying;Udacity;6;;;;1h;
 03/03/2022;Coding;Codewars;2;;;;;
-04/03/2022;;;;;;;;
+04/03/2022;;;0;;;;;
 05/03/2022;Studying;Coursera;8;;;;4:07;
 06/03/2022;Studying;Coursera;5;;;;2:14;
 07/03/2022;Studying;Coursera;6;;;;2:50;
@@ -128,10 +128,3 @@ Date;Type;Piattaforma;Units;Difficulty;Time Start;Time End;;
 31/03/2022;Studying;datacamp;10;;;;4:57;
 01/04/2022;Studying;datacamp;11;;;;5:25;
 02/04/2022;Pairing;local;5;;10:10;12:38;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;;;;;;;
-;;; ;;;;;
