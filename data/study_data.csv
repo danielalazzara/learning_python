@@ -1,4 +1,4 @@
-Date;Type;Piattaforma;Units;Difficulty;Time Start;Time End;Temp1;Temp2
+Date;Type;Platform;Units;Difficulty;Time Start;Time End;Temp1;Temp2
 02/01/2022;Pairing;local;4;;14:00;16:00;;
 03/01/2022;Studying;datacamp;6;;;;;
 04/01/2022;Studying;datacamp;6;;;;;
@@ -128,3 +128,9 @@ Date;Type;Piattaforma;Units;Difficulty;Time Start;Time End;Temp1;Temp2
 31/03/2022;Studying;datacamp;10;;;;4:57;
 01/04/2022;Studying;datacamp;11;;;;5:25;
 02/04/2022;Pairing;local;5;;10:10;12:38;;
+03/04/2022;Pairing;local;7;;18:10     21:24;19:55.  22:53    ;;
+03/04/2022;Studying;datacamp;3;;;;;
+03/04/2022;Coding;local;3;;;;;
+04/04/2022;Studying;datacamp;7;;;;;
+05/04/2022;Studying;datacamp;8;;;;;
+06/04/2022;Studying;datacamp;9;;;;;
