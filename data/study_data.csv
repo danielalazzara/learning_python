@@ -10,49 +10,49 @@ Date;Type;Platform;Units;Difficulty;Time Start;Time End;Temp1;Temp2
 08/01/2022;Pairing;local;4;;15:00;17:30;;
 09/01/2022;Studying;datacamp;6;;;;;
 10/01/2022;Studying;freecodecamp;10;;;;;
-11/01/2022;Studying;freecodecamp;10;;;;32m 34s;
+11/01/2022;Studying;freecodecamp;12;;;;32m 34s;
 12/01/2022;Studying;freecodecamp;10;;;;42m 19s;
-13/01/2022;Studying;freecodecamp;10;;;;36m 51s;16%
+13/01/2022;Studying;freecodecamp;12;;;;36m 51s;16%
 14/01/2022;Studying;freecodecamp;10;;;;29m 26s;21%
 14/01/2022;Pairing;local;3;;10:30;12:00;;
 15/01/2022;Studying;freecodecamp;10;;;;27m 31s;25%
 16/01/2022;Studying;local;6;;;;;
 17/01/2022;Studying;freecodecamp;10;;;;29m 27s;29%
-18/01/2022;Studying;freecodecamp;10;;;;32m 40s;34%
+18/01/2022;Studying;freecodecamp;12;;;;32m 40s;34%
 19/01/2022;Studying;freecodecamp;10;;;;17:40;38%
 19/01/2022;Pairing;local;4;;18:00;20:00;;
 20/01/2022;Studying;freecodecamp;10;;;;39m 14s;45%
-21/01/2022;Studying;freecodecamp;10;;;;12:24;46%
+21/01/2022;Studying;freecodecamp;12;;;;12:24;46%
 22/01/2022;Studying;freecodecamp;10;;;;28m 26s;52%
 22/01/2022;Pairing;local;5;;10:00;12:15;;
 23/01/2022;Studying;freecodecamp;10;;;;;
 24/01/2022;Studying;freecodecamp;10;;;;45m 11s;63%
-25/01/2022;Studying;freecodecamp;10;;;;48m 28s;75%
+25/01/2022;Studying;freecodecamp;12;;;;48m 28s;75%
 26/01/2022;Studying;freecodecamp;10;;;;48m 45s;84%
 26/01/2022;Pairing;local;6;;21:00;24:00;;
 27/01/2022;Studying;freecodecamp;10;;;;1h 24m 13s;100%
-28/01/2022;Studying;freecodecamp;10;;;;;
+28/01/2022;Studying;freecodecamp;12;;;;;
 29/01/2022;Studying;freecodecamp;10;;;;;
 29/01/2022;Pairing;local;4;;18:00;20:00;;
 30/01/2022;Studying;freecodecamp;10;;;;;
-31/01/2022;Studying;freecodecamp;10;;;;;
+31/01/2022;Studying;freecodecamp;12;;;;;
 01/02/2022;Studying;freecodecamp;10;;;;;
 02/02/2022;Studying;freecodecamp;10;;;;;
 03/02/2022;Studying;freecodecamp;10;;;;;
-04/02/2022;Studying;freecodecamp;10;;;;;
+04/02/2022;Studying;freecodecamp;12;;;;;
 05/02/2022;Studying;freecodecamp;10;;;;;
 05/02/2022;Pairing;local;5;;9:30;12:00;;
 06/02/2022;Studying;freecodecamp;10;;;;;
 06/02/2022;Pairing;local;4;;11:15;13:00;;
-07/02/2022;Studying;freecodecamp;10;;;;;
+07/02/2022;Studying;freecodecamp;12;;;;;
 08/02/2022;Studying;freecodecamp;10;;;;;
 08/02/2022;Coding;exercism;2;;;;;
 09/02/2022;Studying;freecodecamp;10;;;;;
 09/02/2022;Pairing;local;4;;20:30;22:30;;
-10/01/2022;Studying;freecodecamp;10;;;;;
-10/01/2022;Coding;exercism;3;;;;;
+10/02/2022;Studying;freecodecamp;10;;;;;
+10/02/2022;Coding;exercism;3;;;;;
 11/02/2022;Coding;exercism;3;;;;;
-11/02/2022;Studying;freecodecamp;10;;;;;
+11/02/2022;Studying;freecodecamp;12;;;;;
 12/02/2022;Studying;freecodecamp;10;;;;;
 12/02/2022;Pairing;local;4;;9:30;11:15;;
 12/02/2022;Coding;exercism;3;;;;;
@@ -92,10 +92,10 @@ Date;Type;Platform;Units;Difficulty;Time Start;Time End;Temp1;Temp2
 05/03/2022;Studying;Coursera;8;;;;4:07;
 06/03/2022;Studying;Coursera;5;;;;2:14;
 07/03/2022;Studying;Coursera;6;;;;2:50;
-08/03/2022;Studying;Coursera;5;;;;2:20;
+08/03/2022;Studying;Coursera;8;;;;2:20;
 09/03/2022;Studying;Coursera;7;;;;3:10;
 09/03/2022;Pairing;local;4;;21:30;23:15;;
-10/03/2022;Studying;Coursera;5;;;;2:15;
+10/03/2022;Studying;Coursera;8;;;;2:15;
 11/03/2022;Studying;Coursera;10;;;;5:00;
 12/03/2022;Studying;Coursera;6;;;;2:45;
 13/03/2022;Studying;Coursera;9;;;;4:30;
@@ -103,7 +103,7 @@ Date;Type;Platform;Units;Difficulty;Time Start;Time End;Temp1;Temp2
 14/03/2022;Pairing;local;3;;21:10;22:40;;
 15/03/2022;Studying;Coursera;11;;;;5:08;
 16/03/2022;Studying;Coursera;8;;;;4:05;
-17/03/2022;Studying;Coursera;2;;;;1:00;
+17/03/2022;Studying;Coursera;6;;;;1:00;
 18/03/2022;Studying;Coursera;5;;;;2:10;
 19/03/2022;Studying;Coursera;4;;;;1:45;
 19/03/2022;Coding;exercism;2;;;;;
