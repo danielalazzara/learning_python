@@ -1,5 +1,6 @@
 attrs==21.4.0
 iniconfig==1.1.1
+matplotlib==3.5.1
 numpy==1.22.3
 packaging==21.3
 pandas==1.4.1
@@ -9,5 +10,6 @@ pyparsing==3.0.7
 pytest==7.1.1
 python-dateutil==2.8.2
 pytz==2022.1
+seaborn==0.11.2
 six==1.16.0
 tomli==2.0.1
