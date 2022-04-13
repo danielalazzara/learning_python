@@ -23,6 +23,9 @@ jobs:
       - name: Update README
         run: |-
           python main.py
+          # rename image files
+          mv data/graphs/graph_1.png data/graphs/image_1.png
+          mv data/graphs/graph_2.png data/graphs/image_2.png
       - name: Commit and push if changed
         run: |-
           git diff
