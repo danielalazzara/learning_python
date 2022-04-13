@@ -32,7 +32,7 @@ def plot_graphs():
     plt.savefig("data/graphs/graph_1.png")
     plt.close()
     ax = sns.scatterplot(x="date", y="cumulative_units", data=data)
-    # ax.set_xticklabels(ax.get_xticklabels(), rotation=65)
+    plt.xticks(rotation=65)
     # plt.show()  # DEBUG
     plt.savefig("data/graphs/graph_2.png")
     plt.close()
