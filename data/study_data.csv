@@ -66,7 +66,7 @@ Date;Type;Platform;Units;Difficulty;Time Start;Time End;Temp1;Temp2
 16/02/2022;Pairing;local;5;;21:00;23:30;;
 17/02/2022;Studying;Udacity;6;;;;1h;
 17/02/2022;Studying;freecodecamp;10;;;;;
-18/02/2022;Studying;Udacity;18;;;;3h;
+18/02/2022;Studying;Udacity;10;;;;3h;
 18/02/2022;Studying;freecodecamp;10;;;;;
 18/02/2022;Coding;exercism;4;;;;;
 19/02/2022;Studying;freecodecamp;10;;;;;
@@ -155,5 +155,13 @@ Date;Type;Platform;Units;Difficulty;Time Start;Time End;Temp1;Temp2
 18/04/2022;Studying;datacamp;5;;;;;
 19/04/2022;Studying;datacamp;3;;;;;
 19/04/2022;Studying;local;2;;;;;
-20/04/2022;Studying;datacamp;2;;;;;
-20/04/2022;Studying;local;;;;;;
+20/04/2022;Studying;datacamp;6;;;;;
+20/04/2022;Coding;local;3;;;;;
+20/04/2022;Pairing;local;4;;;;;
+21/04/2022;Studying;datacamp;8;;;;;
+22/04/2022;Studying;datacamp;7;;;;;
+23/04/2022;Studying;datacamp;4;;;;;
+23/04/2022;Coding;local;2;;;;;
+24/04/2022;Pairing;local;4;;;;;
+24/04/2022;Coding;exercism;2;;;;;
+24/04/2022;Studying;datacamp;3;;;;;
