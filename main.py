@@ -26,15 +26,15 @@ def replace_null_data(col_names: list) -> None:
 
 
 def plot_graphs():
+    plt.figure(figsize=(24, 10), dpi=300)
     ax = sns.relplot(x="date", y="units", data=data, kind="line", style="type", hue="type")
     ax.set_xticklabels(rotation=65)
-    # plt.show()  # DEBUG
-    plt.savefig("data/graphs/graph_1.png")
+    plt.savefig("data/graphs/graph_1.png", bbox_inches='tight')
     plt.close()
+    plt.figure(figsize=(15, 15), dpi=300)
     ax = sns.scatterplot(x="date", y="cumulative_units", data=data)
     plt.xticks(rotation=65)
-    # plt.show()  # DEBUG
-    plt.savefig("data/graphs/graph_2.png")
+    plt.savefig("data/graphs/graph_2.png", bbox_inches='tight')
     plt.close()
 
 
