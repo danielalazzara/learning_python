@@ -26,6 +26,7 @@ jobs:
           # rename image files
           mv data/graphs/graph_1.png data/graphs/image_1.png
           mv data/graphs/graph_2.png data/graphs/image_2.png
+          python update_readme_timestamp.py
       - name: Commit and push if changed
         run: |-
           git diff
