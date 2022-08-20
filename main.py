@@ -17,7 +17,7 @@ def sanitized_col_names(col_names: list) -> list:
 
 def drop_columns():
     col_del = ['difficulty', 'temp1', 'temp2']
-    data.drop(columns = col_del, inplace=True)
+    data.drop(columns=col_del, inplace=True)
 
 
 def replace_null_data(col_names: list) -> None:
